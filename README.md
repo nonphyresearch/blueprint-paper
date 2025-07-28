@@ -69,7 +69,7 @@ This repository is linked to a public IPFS space, which represents the curated a
   "did": "did:key:z6MkocLbny2mgyCSoqTNMLv3tPcS3HqNQwuJhJrXSDHFddXQ",
   "root_cid": "bafybeibc3ygvkddgiiyey4xgfji4hxknvccbzn5dhcqq5624o63kor74ke",
   "ipfs_url": "https://bafybeibc3ygvkddgiiyey4xgfji4hxknvccbzn5dhcqq5624o63kor74ke.ipfs.w3s.link/"
-}
+}```
 
 --- 
 
