@@ -8,6 +8,8 @@ Developed as part of the **Non Phy** research initiative, this format introduces
 🔗 Project site: [https://nonphy.org](https://nonphy.org)  
 📬 Contact: info@nonphy.org
 
+DOI: https://doi.org/10.5281/zenodo.16541482
+
 ---
 
 ## 📄 RFC Specification
