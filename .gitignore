@@ -1,0 +1,18 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# VSCode
+.vscode/
+
+# Markdown previews or temp
+*.log
+*.aux
+*.out
+
+# JSON temporários
+*.tmp.json
+
+# IPFS local
+.ipfs/

@@ -1,0 +1,75 @@
+{
+  "paperId": "BP-000-000-000",
+  "version": "v1.0.0",
+  "title": "Blueprint Paper Template",
+  "lastUpdated": "2025-07-28T11:50:14.094386Z",
+  "status": "DRAFT",
+  "authors": [
+    {
+      "name": "Roberto Bert\u00f3",
+      "affiliation": "Independent Researcher"
+    }
+  ],
+  "doi": "",
+  "entities": [
+    {
+      "id": "ONTO-000-000-000",
+      "type": "ONTO",
+      "name": "Example Ontological Module",
+      "description": "Placeholder entity for demonstrating ONTO structure.",
+      "variables": [
+        {
+          "name": "x",
+          "domain": "real numbers",
+          "description": "Generic variable for demonstration."
+        }
+      ],
+      "relations": [],
+      "status": "PENDING",
+      "content": "",
+      "links": [],
+      "figures": []
+    },
+    {
+      "id": "THEO-000-000-000",
+      "type": "THEO",
+      "name": "Example Theoretical Model",
+      "description": "Placeholder structure for linking ONTO and EQUA.",
+      "variables": [],
+      "relations": [],
+      "status": "PENDING",
+      "content": "",
+      "links": [],
+      "figures": []
+    },
+    {
+      "id": "EQUA-000-000-000",
+      "type": "EQUA",
+      "name": "Example Equation",
+      "description": "Symbolic placeholder equation expression.",
+      "variables": [
+        {
+          "name": "y",
+          "domain": "real numbers",
+          "description": "Generic output variable."
+        }
+      ],
+      "relations": [],
+      "status": "PENDING",
+      "content": "y = f(x)",
+      "links": [],
+      "figures": []
+    }
+  ],
+  "graphEdges": [],
+  "treeStructure": [],
+  "integrity": {
+    "entityCount": 3,
+    "relationCount": 0,
+    "checksum": "",
+    "errors": []
+  },
+  "customFields": {
+    "domainSpecific": "template"
+  }
+}
