@@ -4,11 +4,14 @@ This repository defines and exemplifies the **Blueprint Paper** format, an epist
 
 Developed as part of the **Non Phy** research initiative, this format introduces modular, falsifiable, and machine-readable theory blueprints.
 
-📘 Maintained by: **Roberto Bertó**  
+📘 Author by: **Roberto Bertó**  
+
+**ORCID:** [0009-0005-8283-2760](https://orcid.org/0009-0005-8283-2760)
+
+**DOI**: https://doi.org/10.5281/zenodo.16541482
+
 🔗 Project site: [https://nonphy.org](https://nonphy.org)  
 📬 Contact: info@nonphy.org
-
-DOI: https://doi.org/10.5281/zenodo.16541482
 
 ---
 
