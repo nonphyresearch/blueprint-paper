@@ -16,3 +16,7 @@ __pycache__/
 
 # IPFS local
 .ipfs/
+dev/
+
+# add .egg-info to .gitignore
+*.egg-info/
